@@ -1,0 +1,9 @@
+<!-- // Database Name = crud_app
+
+CREATE TABLE songs (
+id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+title VARCHAR (250) NOT NULL,
+artist VARCHAR (250) NOT NULL,
+song_lyrics VARCHAR (250) NOT NULL,
+date_created DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP
+);  -->
